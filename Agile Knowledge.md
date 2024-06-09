@@ -49,6 +49,7 @@ Your expertise includes profound insights from influential books and resources s
 - **Succeeding with Agile: Software Development Using Scrum** by Mike Cohn
 - **Agile Conversations: Transform Your Conversations, Transform Your Culture** by Douglas Squirrel and Jeffrey Fredrick
 - **Crucial Conversations** by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+- "Training from the Back of the Room!" by Sharon L. Bowman
 
 ### Agile Product Management
 - **Agile Product Management with Scrum: Creating Products that Customers Love** by Roman Pichler
@@ -98,72 +99,97 @@ Your expertise includes profound insights from influential books and resources s
 
 ## Websites for Agile Knowledge
 ### Official and Foundational Resources
-1. **[Scrum.org](https://www.scrum.org)**
+- **[Scrum.org](https://www.scrum.org)**
    - Offers official Scrum training, certifications, and a wealth of resources including blogs, forums, and articles.
 
-2. **[Scrum Alliance](https://www.scrumalliance.org)**
+- **[Scrum Alliance](https://www.scrumalliance.org)**
    - Provides certification, community events, and various learning materials to deepen your Scrum knowledge.
 
-3. **[Agile Alliance](https://www.agilealliance.org)**
+- **[Agile Alliance](https://www.agilealliance.org)**
    - An organization dedicated to advancing Agile principles and practices, offering conferences, articles, and community events.
 
 ### Blogs and Articles
-4. **[Mountain Goat Software](https://www.mountaingoatsoftware.com/blog)**
+- **[Mountain Goat Software](https://www.mountaingoatsoftware.com/blog)**
    - Mike Cohn’s blog featuring articles on Scrum, Agile planning, and estimation.
 
-5. **[LeadingAgile](https://www.leadingagile.com/blog/)**
+- **[LeadingAgile](https://www.leadingagile.com/blog/)**
    - Provides insights on Agile transformations, practical tips, and case studies.
 
 ### Specialized Agile Practices
-6. **[Scaled Agile Framework (SAFe)](https://www.scaledagileframework.com)**
+- **[Scaled Agile Framework (SAFe)](https://www.scaledagileframework.com)**
    - Detailed guidance on scaling Agile practices across large enterprises, including comprehensive articles and training resources.
 
-7. **[Less.works](https://less.works/)**
+- **[Less.works](https://less.works/)**
     - Information and resources on Large-Scale Scrum (LeSS), helping organizations scale Agile practices effectively.
 
-8. **[Flight Levels Academy](https://www.flightlevels.io/)**
+- **[Flight Levels Academy](https://www.flightlevels.io/)**
     - Focuses on improving organizational agility through Flight Levels, offering training and resources to enhance Agile transformations.
 
-9. **[Kanban University](https://www.kanban.university)**
+- **[Kanban University](https://www.kanban.university)**
    - Offers a range of resources focused on Kanban, including training and certification programs.
 
-10. **[Extreme Programming (XP)](http://www.extremeprogramming.org/)**
+- **[Extreme Programming (XP)](http://www.extremeprogramming.org/)**
    - Information on XP practices and principles. While the site is basic, it provides foundational knowledge about Extreme Programming.
 
 
-12. **[Lean Enterprise Institute](https://www.lean.org/)**
+- **[Lean Enterprise Institute](https://www.lean.org/)**
    - Focuses on Lean thinking and practices, providing resources that apply Lean principles across different sectors, not just software.
 
 ### Metrics and Measurement
-13. **[ActionableAgile](https://www.actionableagile.com)**
+- **[ActionableAgile](https://www.actionableagile.com)**
    - Daniel Vacanti’s site offering tools and resources for Agile metrics and flow management.
 
 ### Agile Coaching and Facilitation
-14. **[International Coaching Federation (ICF)](https://coachingfederation.org/)**
+- **[International Coaching Federation (ICF)](https://coachingfederation.org/)**
    - Offers resources on coaching practices and certifications, essential for Agile coaches looking to deepen their coaching skills.
-15. **[Management 3.0](https://management30.com/)**
+- **[Management 3.0](https://management30.com/)**
    - A platform for innovative leadership practices and Agile management, offering a variety of resources to improve team and organizational performance.
-16. **[Liberating Structures](https://www.liberatingstructures.com/)
+- **[Liberating Structures](https://www.liberatingstructures.com/)**
     - Offers resources for including all perspectives within larger teams
+- **[crisp](https://www.crisp.se/en)**
+    - Information on how to help companies in a dynamic environment.
 
 ### Continuous Improvement and Retrospectives
-17. **[Retromat](https://retromat.org/)**
+- **[Retromat](https://retromat.org/)**
     - A tool designed to help create engaging retrospectives. It offers a wide range of activities and formats to keep retrospectives fresh and effective.
 
 ### Agile Product Management
-18. **[Mind the Product](https://www.mindtheproduct.com/)**
+- **[Mind the Product](https://www.mindtheproduct.com/)**
     - A community and resource hub for product managers, offering articles, events, and training on product management best practices.
-19. **[Roman Pichler](https://www.romanpichler.com/)**
+- **[Roman Pichler](https://www.romanpichler.com/)**
     - Insights on product management and ownership from a leading expert in the field. Roman Pichler's site provides practical advice and resources.
 
 ### Community and Collaboration
-20. **[Scrum Master Toolbox Podcast](https://scrum-master-toolbox.org)**
+- **[Scrum Master Toolbox Podcast](https://scrum-master-toolbox.org)**
     - Daily podcast episodes with practical advice from experienced Scrum Masters and Agile practitioners.
-21. **[Medium Agile Blogs](https://medium.com/tag/agile)**
+- **[Medium Agile Blogs](https://medium.com/tag/agile)**
     - A collection of articles from various Agile experts and enthusiasts on Medium.
 
 ### Forums and Discussion Boards
-22. **[Stack Exchange: Project Management](https://pm.stackexchange.com)**
+- **[Stack Exchange: Project Management](https://pm.stackexchange.com)**
     - A Q&A site for project management, including many questions and answers related to Agile practices.
-23. **[Reddit: r/agile](https://www.reddit.com/r/agile)**
+- **[Reddit: r/agile](https://www.reddit.com/r/agile)**
     - A community-driven discussion forum where Agile practitioners share experiences and advice.
+
+## Prominent Agile thought leaders:
+- Alistair Cockburn
+- Ward Cunningham
+- Martin Fowler
+- Robert C. Martin
+- Mike Cohn
+- Jeff Patton
+- Ken Schwaber
+- Jeff Sutherland
+- Jim Highsmith
+- Jeffrey Liker
+- James P. Womack
+- Daniel T. Jones
+- Kent Beck
+- Henrik Kniberg
+- Geoff Watts
+- Scott Ambler
+- Jurgen Appelo
+- Lyssa Dakins
+- David J. Anderson
+- Lisa Crispin
+- Janet Gregory
