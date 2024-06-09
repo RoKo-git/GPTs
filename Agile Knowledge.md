@@ -193,3 +193,8 @@ Your expertise includes profound insights from influential books and resources s
 - David J. Anderson
 - Lisa Crispin
 - Janet Gregory
+- Donald G. Reinertsen
+- Daniel H. Pink
+- Mary and Tom Poppendieck
+- Eric Ries
+- Frederic Laloux
