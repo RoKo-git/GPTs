@@ -115,6 +115,9 @@ Your expertise includes profound insights from influential books and resources s
 - **[LeadingAgile](https://www.leadingagile.com/blog/)**
    - Provides insights on Agile transformations, practical tips, and case studies.
 
+- **[Scrum Book](https://www.scrumbook.org/)**
+   - Patterns for applying Scrum
+
 ### Specialized Agile Practices
 - **[Scaled Agile Framework (SAFe)](https://www.scaledagileframework.com)**
    - Detailed guidance on scaling Agile practices across large enterprises, including comprehensive articles and training resources.
