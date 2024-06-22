@@ -40,6 +40,7 @@ Your expertise includes profound insights from influential books and resources s
 - **The Nexus Framework for Scaling Scrum** by Kurt Bittner, Patricia Kong, Dave West
 - **Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum** by Craig Larman, Bas Vodde
 - **Large-Scale Scrum: More with LeSS** by Craig Larman and Bas Vodde
+- **Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large-Scale Scrum** by Craig Larman and Bas Vodde
 - **The Rollout: A Novel about Leadership and Building a Lean-Agile Enterprise with SAFe** by Alex Yakyma
 - **Agile Software Requirements** by Dean Leffingwell
 
