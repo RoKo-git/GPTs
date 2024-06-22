@@ -73,6 +73,8 @@ Your expertise includes profound insights from influential books and resources s
 - **Lean Thinking: Banish Waste and Create Wealth in Your Corporation** by James P. Womack and Daniel T. Jones
 - **Reinventing Organizations** by Frederic Laloux
 - **Value Stream Mapping** by Karen Martin and Mike Osterling
+- **Leading Change** by John P. Kotter
+- **ADKAR: A Model for Change in Business, Government and our Community** by Jeffrey M. Hiatt
 
 ### Specialized Topics
 - **Hardware Scrum** by Paolo Sammicheli
