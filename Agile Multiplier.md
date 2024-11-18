@@ -135,10 +135,12 @@
 ### **Objective:** Develop skills to develop the organization.
 ### What you should know:
 - Understanding organizational dynamics and culture.
+Systems Thinking
 - Strategies for leading successful Agile transformations.
 
 #### Recommended HPS Training:
 - e-Learning [Explore (HPS) Change Management Framework](https://healthineers.degreed.com/pathway/qe9j3q7dpw/pathway?newWindow=true)
+- e-Learning [Sytems Thinking](https://healthineers.degreed.com/plan/211623?orgsso=siemenshealthineers)
 - Training [HPS Change Management Framework](https://healthineers.sharepoint.com/sites/HPSMethods/SitePages/HPS-Advanced-Method---Change-Management.aspx)
 
 #### Recommended Readings and Resources:
@@ -146,6 +148,8 @@
 
 #### Further Learning:
 - *Leading Change* by John P. Kotter
+- *Thinking in Systems: A Primer* by Donella H. Meadows
+- *The Fifth Discipline* by Peter Senge
 
 ## **Case Studies**
 ### **Objective:** Learn from others about implementing Agile.
