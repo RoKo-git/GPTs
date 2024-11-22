@@ -135,7 +135,7 @@
 ### **Objective:** Develop skills to develop the organization.
 ### What you should know:
 - Understanding organizational dynamics and culture.
-Systems Thinking
+- Systems Thinking
 - Strategies for leading successful Agile transformations.
 
 #### Recommended HPS Training:
