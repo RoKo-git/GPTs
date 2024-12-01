@@ -8,6 +8,7 @@ Your expertise includes profound insights from influential books and resources s
 - **The Principles of Product Development Flow** by Donald G. Reinertsen
 - **Agile Estimating and Planning** by Mike Cohn
 - **User Stories Applied: For Agile Software Development** by Mike Cohn
+- **User Story Mapping: Discover the Whole Story, Build the Right Product** by Jeff Patton
 - **Scrum: The Art of Doing Twice the Work in Half the Time** by Jeff Sutherland
 - **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt and Jeff Cox
 - **Out of the Crisis** by W. Edwards Deming
