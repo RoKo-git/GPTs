@@ -2182,3 +2182,134 @@ By following this comprehensive approach, you can assist the user in developing 
     - These stories can inspire and motivate employees and stakeholders, showing the real-world impact of the company’s efforts.
 
 By implementing these strategies, you can help ensure that the vision and mission statements are not only well-crafted but also effectively integrated into the fabric of the business, driving long-term success and engagement.
+
+
+# FlorianKelm
+I am designing a web-based training on [Business Agility]. 
+The training should not exceed 10 minutes in total.
+The audience is new to the company, unfamiliar with Business Agility.
+ 
+The training purpose:
+	Get familiar with Agility, get familiar with growth mindset, get familiar with core guiding principles of Business Agility
+ 
+ 
+Use the following prompt as the fixed template for the agenda of a web-based training:
+###
+Introduction:
+	Why is Agility important for today's companies?
+	What outcomes generate agile companies?
+1. What is Business Agility?
+2. What is a Lean-Agile-Mindset?
+	2.1 fixed mindset vs. growth mindset
+3. What are the core guiding principles of Business Agility?
+	3.1 Customer Collaboration
+	3.2 Value Delivery
+	3.3 Team Empowerment
+	3.4 Iterative and Incremental approach
+	3.5 Continuous Reflection and Improvement
+4. How to implement Business Agility in our company?
+ 
+Summary:
+	Recap of the learning objectives
+ 
+Quiz Section:
+ 
+Wrap-up and Call to action:
+###
+ 
+Use the following prompt as training template reference:
+####
+I am designing a web-based training on [Business Agility]. 
+The training should not exceed 10 minutes in total.
+The audience is new to the company, unfamiliar with Business Agility.
+ 
+The structure of the training is as follows:
+ 
+	Introduction (1-2 minutes):
+ 
+		Purpose: Quickly establish the relevance of the topic.
+		Content: Include a welcome message, a brief overview of the topic, and visually appealing learning objectives.
+ 
+	Core Content Segments (6-7 minutes):
+ 
+		Structure: Break content into bite-sized sections.
+			Each section includes:
+				A Key Message: One central idea to avoid overload.
+				Interactive Elements: Clickable elements, animations, or activities to boost engagement.
+				A Real-Life Example/Case Study: Show practical applications.
+				Micro-Quizzes or Knowledge Checks: Questions to reinforce concepts.
+ 
+		Recommended Flow:
+			Concept Introduction (simple, jargon-free language).
+			Interactive Learning (polls, mini-games, or activities).
+			Visual Summary (infographics, charts).
+	Quiz Section (1-2 minutes):
+		Content: One engaging question per learning objective.
+		Formats: Multiple-choice, matching pairs, or drag-and-drop.
+		Feedback: Immediate feedback to clarify misconceptions.
+	Wrap-Up and Call-to-Action (1 minute):
+ 
+		Summary: Recap key takeaways.
+		Call-to-Action: Encourage applying concepts or exploring more resources.
+		Optional: Certification or badge for completing the training.
+####
+ 
+Use the following prompt as template for PowerPoint slides:
+#####
+The structure of the PowerPoint slide is as follows:
+	Head/Title:
+		inspiring title aligned with content section
+ 
+	Content:
+		Key Message:
+			inspiring, easy to understand explanation of Key Message aligned to content section
+		Text:
+			write a text containing input segments of Key Message aligned to content section
+		Bullet-list:
+			list the key phrases of the Text
+		Showcase:
+			describe a real case example of a successful company that thrives in agility aligned to Key Message
+		Quote:
+			Suggest a smart quote aligned to Key Message aligned to content section
+			state the author's name
+		Visual Elements:
+			Suggest visual element that fit to Key Message aligned to content section
+		Speaker's Voice Over:
+			Create compelling Voice over that fits to Text and Key Message aligned to content section
+#####
+*****
+create a compelling agenda for the training
+*****
+*****
+create PowerPoint Slide:
+	Section [Introduction]
+create PowerPoint Slide:
+	Section 1 [What is Business Agility?]
+create PowerPoint Slide:
+	Section 2 [What is a Lean-Agile-Mindset?]
+create PowerPoint Slide:
+	Section 2.1 [fixed mindset vs. growth mindset]
+create PowerPoint Slide:
+	Section 3 [What are the core guiding principles of Business Agility?]
+create PowerPoint Slide:
+	Section 3.1 [Customer Collaboration]
+create PowerPoint Slide:
+	Section 3.2 [Value Delivery]
+create PowerPoint Slide:
+	Section 3.3 [Team Empowerment]
+create PowerPoint Slide:
+	Section 3.4 [Iterative and Incremental approach]
+create PowerPoint Slide:
+	Section 3.5 [Continuous Reflection and Improvement]
+create PowerPoint Slide:
+	Section 4 [How to implement Business Agility in our company?]
+****
+ 
+****
+create a brief summary of created slides for provision in the Learning Management System
+****
+
+has context menu
+
+
+has context menu
